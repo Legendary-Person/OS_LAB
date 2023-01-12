@@ -1,2 +1,2 @@
 # OS_LAB
-KIIT university OS Lab-01
+KIIT university OS Lab
